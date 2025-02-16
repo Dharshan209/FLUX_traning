@@ -248,7 +248,6 @@ def gen_sh(
   --learning_rate {learning_rate} {line_break}
   --cache_text_encoder_outputs {line_break}
   --cache_text_encoder_outputs_to_disk {line_break}
-  --fp16_base {line_break}
   --highvram {line_break}
   --max_train_epochs {max_train_epochs} {line_break}
   --save_every_n_epochs {save_every_n_epochs} {line_break}
